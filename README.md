@@ -3,7 +3,7 @@
 * **Universidad:** Universidad Da Vinci de Guatemala
 * **Curso:** Análisis de Algoritmos
 * **Proyecto:** Proyecto Final
-* **Nombre:** Miguel Andres Monroy Najera
+* **Nombre:** Spike Monroy
 * **Carnet:** 202302407  
 * **Fecha:** 3/12/2025
 
